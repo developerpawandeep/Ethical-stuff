@@ -1,0 +1,21 @@
+10/31/18, 23:44:31.697 [NOTICE] DisableNetwork is set. XYZ will not make or accept non-control network connections. Shutting down all existing connections. 
+10/31/18, 23:44:31.697 [NOTICE] DisableNetwork is set. XYZ will not make or accept non-control network connections. Shutting down all existing connections. 
+10/31/18, 23:44:31.698 [NOTICE] DisableNetwork is set. XYZ will not make or accept non-control network connections. Shutting down all existing connections. 
+10/31/18, 23:44:31.698 [NOTICE] Opening Socks listener on 127.0.0.1:9150 
+10/31/18, 23:44:31.698 [NOTICE] Bootstrapped 5%: Connecting to directory server 
+10/31/18, 23:44:46.861 [NOTICE] Bootstrapped 10%: Finishing handshake with directory server 
+10/31/18, 23:45:07.614 [WARN] Problem bootstrapping. Stuck at 10%: Finishing handshake with directory server. (Network is unreachable [WSAENETUNREACH ]; NOROUTE; count 6; recommendation warn; host 9695DFC35FFEB861329B9F1AB04C46397020CE31 at 128.31.0.39:9101) 
+10/31/18, 23:45:07.614 [WARN] 5 connections have failed: 
+10/31/18, 23:45:07.615 [WARN]  4 connections died in state connect()ing with SSL state (No SSL object) 
+10/31/18, 23:45:07.617 [WARN]  1 connections died in state handshaking (XYZ, v3 handshake) with SSL state SSL negotiation finished successfully in OPEN 
+10/31/18, 23:45:07.646 [WARN] Problem bootstrapping. Stuck at 10%: Finishing handshake with directory server. (Network is unreachable [WSAENETUNREACH ]; NOROUTE; count 7; recommendation warn; host EFEACD781604EB80FBC025EDEDEA2D523AEAAA2F at 217.182.75.181:9001) 
+10/31/18, 23:45:07.648 [WARN] 5 connections have failed: 
+10/31/18, 23:45:07.648 [WARN]  4 connections died in state connect()ing with SSL state (No SSL object) 
+10/31/18, 23:45:07.649 [WARN]  1 connections died in state handshaking (XYZ, v3 handshake) with SSL state SSL negotiation finished successfully in OPEN 
+10/31/18, 23:45:07.652 [NOTICE] Closing no-longer-configured Socks listener on 127.0.0.1:9150 
+10/31/18, 23:45:07.652 [NOTICE] DisableNetwork is set. XYZwill not make or accept non-control network connections. Shutting down all existing connections. 
+10/31/18, 23:45:07.652 [NOTICE] Closing old Socks listener on 127.0.0.1:9150 
+10/31/18, 23:46:12.124 [NOTICE] DisableNetwork is set. XYZ will not make or accept non-control network connections. Shutting down all existing connections. 
+10/31/18, 23:46:12.124 [NOTICE] DisableNetwork is set.XYZ will not make or accept non-control network connections. Shutting down all existing connections. 
+10/31/18, 23:46:12.124 [NOTICE] DisableNetwork is set. XYZ will not make or accept non-control network connections. Shutting down all existing connections. 
+10/31/18, 23:46:12.124 [NOTICE] Opening Socks listener on 127.0.0.1:9150 

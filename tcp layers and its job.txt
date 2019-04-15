@@ -1,0 +1,11 @@
+layer and its job 
+
+>> 
+
+Physical>>hard wired network
+Data Link Layer>>Mac Address/Physical Address
+Network Layer>>Ip Address/Logical Address
+Transport Layer>>Port Address
+Session>>
+Presentation>>
+Application>>

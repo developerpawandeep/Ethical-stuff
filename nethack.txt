@@ -1,0 +1,20 @@
+hping3 -h
+nmap -sV -n (ipaddress)    ---- kali linux
+nslookup 
+type=a
+type=MX
+type=SOA
+
+there are 3 layers ip,icmp ,udp/tcp
+
+ping www.xyz.com -f -l (amount of packet data)
+
+protocols used =  TCP (flags),UDP
+IPV4-IPV6-ICMP (type codes)
+
+
+dnsenum (linux)
+
+smurf ddos attack :- sending a mass -t inmp handshakes
+
+

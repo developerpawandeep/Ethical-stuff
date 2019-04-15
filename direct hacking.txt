@@ -1,0 +1,20 @@
+payload sending
+shkata gar
+
+
+
+2 tcp bind and reverse
+bind:-
+
+
+
+
+logic bomb
+
+
+acl=access control list
+2 types= black and white
+
+dns spoofing is done by inserting various links in google search
+
+2 architecture :- 32,64 

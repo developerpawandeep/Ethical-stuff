@@ -1,0 +1,9 @@
+application         ->> extension vpn of browser can sniff here  (LO = 127.0.0.1)(burp suite use this)
+presentation
+session             ->> vpn can sniff data here        
+                                
+								TndpdnT
+transport -> SSL,TLS          S 0=====0 R
+network
+data link layer
+physical layer

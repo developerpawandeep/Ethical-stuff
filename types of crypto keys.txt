@@ -1,0 +1,17 @@
+crypto keys
+
+Symmetric key, Asymmetric key
+
+
+Symmetric = same key is used to decrypt and is saved in cookie (shared key)
+Asymmetric key= 2 keys 1 for encrypyt and other for decrypt
+ eg. 
+
+ pawan        harsh 
+ k1|k2         k3|k4
+ 
+ k1|[k4]         k3|[k2]
+
+so k1 and k3 are private and k2 and k4 are public
+depend on which key is shared
+

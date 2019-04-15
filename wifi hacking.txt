@@ -1,0 +1,13 @@
+Airodump-ng
+
+
+iwconfig
+airmon-ng start wlan0
+airmon-ng check kill
+airodump-ng wlan0
+cntr+c
+airodump-ng --bssid  nn:aa:an:nn:nn:nn -c 1 --write/root/Desktop/pika wlan0
+cntr+c
+
+Airodump wlan0mon
+Airreplay attack-to block netcutter
